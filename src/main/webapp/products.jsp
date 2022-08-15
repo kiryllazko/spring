@@ -4,6 +4,7 @@
 <%@ page import="org.springframework.jdbc.core.JdbcTemplate" %>
 <%@ page import="org.springframework.beans.factory.annotation.Autowired" %>
 <%@ page import="org.springframework.stereotype.Controller" %>
+<%@ page import="com.lirik.connection.ProductDAOImpl" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

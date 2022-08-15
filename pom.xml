@@ -105,12 +105,11 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
-                            <mainClass>web.SpringBootJspApplication</mainClass>
+                            <mainClass>com.lirik.web.SpringBootJspApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 </project>

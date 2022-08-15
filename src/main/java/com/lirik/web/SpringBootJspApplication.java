@@ -1,12 +1,12 @@
-package web;
+package com.lirik.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication()
+@SpringBootApplication
 public class SpringBootJspApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootJspApplication.class);
+        SpringApplication.run(SpringBootJspApplication.class, args);
     }
 }

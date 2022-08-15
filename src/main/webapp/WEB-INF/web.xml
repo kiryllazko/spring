@@ -23,5 +23,5 @@
 <!--</context-param>-->
 
 <!--<listener>-->
-<!--<listener-class>web.connection.MyServletContextListener</listener-class>-->
+<!--<listener-class>com.lirik.sql.MyServletContextListener</listener-class>-->
 <!--</listener>-->

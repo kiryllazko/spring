@@ -1,4 +1,4 @@
-package web.connection;
+package com.lirik.connection;
 
 import com.lirik.model.Product;
 
@@ -12,5 +12,5 @@ public interface ProductDAO {
 
     public List<Product> getALL();
 
-    public void saveSql(HttpServletRequest req, HttpServletResponse res) throws SQLException;
+    public void saveSql(Product product);
 }

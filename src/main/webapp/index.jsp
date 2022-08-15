@@ -18,7 +18,7 @@
     <a href="store/parts"><h1 class="display-6">Car Parts</h1></a>
     <a href="store/food"><h1 class="display-6">Food</h1></a>
     <a href="store/sql"><h1 class="display-6">DBProducts</h1></a>
-    <a href="store/add"><h1 class="display-6">AddProducts</h1>></a>
+    <a href="store/add"><h1 class="display-6">AddProducts</h1></a>
 </div>
 </body>
 </html>

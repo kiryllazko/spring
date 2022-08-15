@@ -1,4 +1,4 @@
-package sql;
+package com.lirik.connection;
 
 import com.mysql.jdbc.Driver;
 import java.sql.Connection;
